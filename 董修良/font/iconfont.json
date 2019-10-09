@@ -1,0 +1,58 @@
+{
+  "id": "1445127",
+  "name": "11",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "249522",
+      "name": "1112-刀叉勺",
+      "font_class": "1112daochashao",
+      "unicode": "ec2e",
+      "unicode_decimal": 60462
+    },
+    {
+      "icon_id": "267379",
+      "name": "右下箭头",
+      "font_class": "arrowdownright",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "1975648",
+      "name": "VS-01",
+      "font_class": "VS-",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "3575371",
+      "name": "人",
+      "font_class": "ren",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "6179363",
+      "name": "大巴车",
+      "font_class": "dabache",
+      "unicode": "e77d",
+      "unicode_decimal": 59261
+    },
+    {
+      "icon_id": "6979082",
+      "name": "首页",
+      "font_class": "shouye11",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8429171",
+      "name": "人",
+      "font_class": "ren1",
+      "unicode": "e77e",
+      "unicode_decimal": 59262
+    }
+  ]
+}
